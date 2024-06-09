@@ -10,7 +10,7 @@ Flappy Bird is an excellent project for those new to programming, offering a fun
 
 ## Gameplay
 
-![Gameplay GIF](Flappy-Bird/Gameplay_FlappyBird.gif)
+![Gameplay GIF](Gameplay_FlappyBird.gif)
 
 ## Requirements
 
