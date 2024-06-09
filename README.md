@@ -10,7 +10,7 @@ Flappy Bird is an excellent project for those new to programming, offering a fun
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Pygame
 
 ## Setup
