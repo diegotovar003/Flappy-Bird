@@ -17,8 +17,8 @@ Flappy Bird is an excellent project for those new to programming, offering a fun
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/FlappyBird.git
-    cd FlappyBird
+    git clone https://github.com/diegotovar003/Flappy-Bird.git
+    cd Flappy-Bird
     ```
 
 2. **Install Pygame**:
