@@ -44,4 +44,4 @@ Flappy Bird is an excellent project for those new to programming, offering a fun
 
 ## License
 
-This project is licensed under the Apache License.
+This project is licensed under the Apache-2.0 License.
