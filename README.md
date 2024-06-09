@@ -8,6 +8,10 @@ This is a clone of the popular Flappy Bird game, where you control a bird and na
 
 Flappy Bird is an excellent project for those new to programming, offering a fun way to learn Python and Pygame. By working on this project, you'll gain practical experience with game development concepts such as sprite animation, collision detection, and event handling.
 
+## Gameplay
+
+![Gameplay GIF](Flappy-Bird/Gameplay_FlappyBird.gif)
+
 ## Requirements
 
 - Python 3
