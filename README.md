@@ -12,12 +12,18 @@ Flappy Bird is an excellent project for those new to programming, offering a fun
 
 ![Gameplay GIF](Gameplay_FlappyBird.gif)
 
+## How to Play
+
+- Press the spacebar to make the bird flap its wings and jump.
+- Avoid hitting the pipes.
+- Try to score as many points as possible by passing through the gaps between the pipes.
+
 ## Requirements
 
 - Python 3
 - Pygame
 
-## Setup
+- ## Setup
 
 1. **Clone the repository**:
     ```bash
@@ -34,17 +40,6 @@ Flappy Bird is an excellent project for those new to programming, offering a fun
     ```bash
     python main.py
     ```
-
-## How to Play
-
-- Press the spacebar to make the bird flap its wings and jump.
-- Avoid hitting the pipes.
-- Try to score as many points as possible by passing through the gaps between the pipes.
-
-## Assets
-
-- The `assets/sprites/` directory contains all the images used in the game.
-- The `assets/audios/` directory contains all the sound effects used in the game.
 
 ## License
 
